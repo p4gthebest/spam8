@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 console.log("P4G the best");
-var prefix = "1";
+var prefix = "8";
 
 client.on("ready", () => {
 let channel =     client.channels.get("513309819612954624")
